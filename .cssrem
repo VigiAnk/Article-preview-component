@@ -1,0 +1,10 @@
+; px to rem settings
+{
+  "$schema": "https://raw.githubusercontent.com/cipchk/vscode-cssrem/master/schema.json",
+  "rootFontSize": 13,  
+  "fixedDigits": 2,                
+  "autoRemovePrefixZero": true,
+  "hover": "always",
+  "currentLine": "show",
+  "languages": ["css", "scss"]
+}
