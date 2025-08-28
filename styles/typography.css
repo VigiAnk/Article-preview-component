@@ -1,0 +1,30 @@
+.text-preset-1 {
+    font-size: var(--text-preset-1-font-size);
+    font-weight: 700;
+    color: var(--color-grey-900);
+    line-height: var(--text-preset-1-line-height);
+    letter-spacing: var(--text-preset-1-letter-spacing);
+}
+  
+.text-preset-2-medium {
+    font-size: var(--text-preset-2-medium-font-size);
+    font-weight: 500;
+    color: var(--color-grey-500);
+    line-height: var(--text-preset-2-medium-line-height);
+    letter-spacing: var(--text-preset-2-medium-letter-spacing);
+}
+  
+.text-preset-2-bold {
+    font-size: var(--text-preset-2-bold-font-size);
+    font-weight: 700;
+    color: var(--color-grey-900);
+    line-height: var(--text-preset-2-bold-line-height);
+    letter-spacing: var(--text-preset-2-bold-letter-spacing);
+}
+  
+.text-preset-3 {
+    font-size: var(--text-preset-3-font-size);
+    color: var(--color-grey-400);
+    line-height: var(--text-preset-3-line-height);
+    letter-spacing: var(--text-preset-3-letter-spacing);
+}
